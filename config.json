@@ -59,7 +59,7 @@
     "training_xattention_optimizations": false,
     "sd_model_checkpoint": "",
     "sd_checkpoint_cache": 0,
-    "sd_vae": "",
+    "sd_vae": "auto",
     "sd_vae_as_default": false,
     "sd_hypernetwork": "None",
     "sd_hypernetwork_strength": 1.0,
